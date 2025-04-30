@@ -1,10 +1,11 @@
 # Jarvis-AI-Assistant
  JARVIS-AN-AI-ASSISTANT is a Python-based virtual assistant project inspired by the AI system. It includes scripts like main.py and bridge.py. 
  Steps to Set Up and Run JARVIS-AN-AI-ASSISTANT
+ 
 Clone the Repository:
 https://github.com/AarshiJain03/Jarvis-AI-Assistant.git
-Set Up Environment:
 
+Set Up Environment:
 Create a virtual environment (optional):
 
 python -m venv venv
